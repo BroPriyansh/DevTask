@@ -5,7 +5,7 @@ import './index.css'
 import Login from './Login.jsx'
 import Landing from './Landing .jsx'
 import Signup from './Signup.jsx'
-import Account from './account.jsx'
+import Account from './Account.jsx'
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
