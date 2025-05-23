@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Account() {
   return (
     <div>
-      <div className="flex items-center justify-center min-h-screen bg-gray-100">
+      <div className="flex justify-center min-h-screen bg-gray-100">
       <div className="bg-white w-96 rounded-xl shadow-md p-6">
         <div className="flex col span-2 justify-between mb-4">
             <h2 className="text-lg font-semibold border-b pb-2 mb-4">Account Settings</h2>
